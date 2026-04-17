@@ -64,3 +64,9 @@ API Documentation
 FastAPI provides an automatic interactive swagger documentation:
 
 URL: http://127.0.0.1:8000/docs
+
+
+Author
+CheSubhro
+
+GitHub: @CheSubhro
